@@ -1,6 +1,6 @@
 webserver:
   hosts:
-    138.68.144.149
+    165.227.236.212
   vars:
     domain: html
     ansible_user: root
